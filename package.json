@@ -8,7 +8,7 @@
     "clean": "rimraf dist",
     "copy:static": "copyfiles manifest.json  images/**/* dist",
     "copyindex:static": "copyfiles index.js dist/content",
-    "cleanindex:static":  "rimraf index.js",
+    "cleanindex:static": "rimraf index.js",
     "dist": "npm run clean && npm run build && npm run copy:static && npm run copyindex:static && npm run cleanindex:static"
   },
   "author": "Adeel Shafqat",

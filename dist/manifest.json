@@ -1,0 +1,25 @@
+{
+	"manifest_version": 3,
+	"name": "Metrics Collector",
+	"version": "1.0.0",
+	"description": "",
+	"icons": {
+		"16": "images/icon16.png",
+		"48": "images/icon48.png",
+		"128": "images/icon128.png"
+	},
+	"content_scripts": [{
+		"js": [
+			"content/index.js"
+		],
+		"matches": ["<all_urls>"]
+	}],
+	"permissions": [
+		"tabs"
+	],
+	"host_permissions": [
+		"*://*/*"
+	],
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg/wAu86aayfkDEvVAGgdtl8FS2/axn1JqdDl9awFDUdSLZrCNJ/7vMJBEUp3IpgzBMF+qFH9UZFQJIuyo2vRHnmIXDMVXEfYLmIJ9WfMYQnu8sUvcTilj7zCzaWSyo1/VqGeahsRX18VZBaMyOc4vauSojZFi66ZkR+dd9JoPhbxFFAMrcZkYeoIL27+ofKRy01gCBN/p3kQtowfvQtxGA+5irSqspXPtFIeTY20ZBhGaYR1KXu9wwa9ghtuQPf00Gy8+FyDzFwemawJ3KjlATokTjqEw9Z8ZM1kB6sS0q50xSJUhlbQ+/FMFN0owm7K5UHTSXGOALS8YPnHASeP3wIDAQAB"
+	
+}
