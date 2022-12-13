@@ -7,9 +7,7 @@
     "build": "npm run build:content",
     "clean": "rimraf dist",
     "copy:static": "copyfiles manifest.json  images/**/* dist",
-    "copyindex:static": "copyfiles index.js dist/content",
-    "cleanindex:static": "rimraf index.js",
-    "dist": "npm run clean && npm run build && npm run copy:static && npm run copyindex:static && npm run cleanindex:static"
+    "dist": "npm run clean && npm run build && npm run copy:static"
   },
   "author": "Adeel Shafqat",
   "license": "MIT",
@@ -66,7 +64,5 @@
     "axios": "^0.26.0",
     "cors": "^2.8.5",
     "express": "^4.17.2"
-  },
-  "main": "index.js",
-  "keywords": []
+  }
 }

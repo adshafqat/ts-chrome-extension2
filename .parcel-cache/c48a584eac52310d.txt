@@ -1,7 +1,9 @@
-27103
-44/home/adeel/ts-chrome-extension/package.json1670946638200077322 0
-52/home/adeel/ts-chrome-extension/src/content/index.ts1670940686139242590 0
+27107
+44/home/adeel/ts-chrome-extension/package.json1670947809023383196 0
+52/home/adeel/ts-chrome-extension/src/content/index.ts1670947548478646665 0
 45/home/adeel/ts-chrome-extension/manifest.json1670946357295284737 0
+53/home/adeel/ts-chrome-extension/dist/content/index.js1670947822151420312 0
+36/home/adeel/ts-chrome-extension/dist1670947822143420290 1
 60/home/adeel/ts-chrome-extension/node_modules/is-json/LICENSE1670946626120043238 0
 63/home/adeel/ts-chrome-extension/node_modules/is-json/.npmignore1670946625740042166 0
 62/home/adeel/ts-chrome-extension/node_modules/is-json/README.md1670946625932042707 0
@@ -10353,7 +10355,7 @@
 63/home/adeel/ts-chrome-extension/node_modules/@parcel/events/lib1670946627184046240 1
 146/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/exporter-collector/node_modules/@opentelemetry/core/build/src/utils/environment.js.map1670946629964054084 0
 132/home/adeel/ts-chrome-extension/node_modules/@typescript-eslint/typescript-estree/_ts3.4/dist/parseSettings/createParseSettings.d.ts1670946629460052662 0
-40/home/adeel/ts-chrome-extension/index.js1670946664184150632 0
+40/home/adeel/ts-chrome-extension/index.js1670947331858034471 0
 91/home/adeel/ts-chrome-extension/node_modules/@babel/traverse/lib/path/inference/util.js.map1670946628496049942 0
 81/home/adeel/ts-chrome-extension/node_modules/caniuse-lite/data/features/jpegxr.js1670946630884056680 0
 78/home/adeel/ts-chrome-extension/node_modules/es-abstract/2021/TimeWithinDay.js1670946631312057887 0
@@ -10466,6 +10468,7 @@
 99/home/adeel/ts-chrome-extension/node_modules/@parcel/package-manager/node_modules/semver/bin/semver1670946626064043080 0
 82/home/adeel/ts-chrome-extension/node_modules/es-abstract/2022/SetFunctionLength.js1670946631264057752 0
 100/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/core/build/esm/trace/suppress-tracing.js1670946630272054953 0
+44/home/adeel/ts-chrome-extension/dist/content1670947822151420312 1
 75/home/adeel/ts-chrome-extension/node_modules/es-abstract/2022/IsCallable.js1670946630940056838 0
 156/home/adeel/ts-chrome-extension/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar/baz/real-bar.js1670946629956054061 0
 99/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/instrumentation-document-load/README.md1670946628316049434 0
@@ -11009,7 +11012,7 @@
 78/home/adeel/ts-chrome-extension/node_modules/postcss-value-parser/lib/index.js1670946625908042640 0
 98/home/adeel/ts-chrome-extension/node_modules/@babel/plugin-syntax-logical-assignment-operators/lib1670946625836042437 1
 119/home/adeel/ts-chrome-extension/node_modules/@typescript-eslint/utils/dist/ast-utils/eslint-utils/astUtilities.d.ts.map1670946628648050371 0
-31/home/adeel/ts-chrome-extension1670946664188150644 1
+31/home/adeel/ts-chrome-extension1670947822143420290 1
 149/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/instrumentation-aws-lambda/node_modules/@opentelemetry/instrumentation/build/esm/types.js1670946628708050541 0
 79/home/adeel/ts-chrome-extension/node_modules/es-abstract/2020/HasOwnProperty.js1670946630800056443 0
 87/home/adeel/ts-chrome-extension/node_modules/@babel/plugin-syntax-optional-chaining/lib1670946625836042437 1
@@ -13849,7 +13852,7 @@
 90/home/adeel/ts-chrome-extension/node_modules/caniuse-lite/data/features/css-reflections.js1670946630204054761 0
 102/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/instrumentation-net/build/src/utils.js.map1670946627388046816 0
 90/home/adeel/ts-chrome-extension/node_modules/postcss-selector-parser/dist/sortAscending.js1670946628044048667 0
-43/home/adeel/ts-chrome-extension/src/content1670940686139242590 1
+43/home/adeel/ts-chrome-extension/src/content1670947548482646675 1
 93/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/instrumentation-knex/package.json1670946627068045913 0
 119/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/exporter-collector/node_modules/semver/ranges/intersects.js1670946627720047752 0
 86/home/adeel/ts-chrome-extension/node_modules/@types/istanbul-lib-coverage/package.json1670946626148043317 0
@@ -19035,6 +19038,7 @@
 56/home/adeel/ts-chrome-extension/node_modules/.bin/cssesc1670946632816062131 0
 99/home/adeel/ts-chrome-extension/node_modules/@typescript-eslint/scope-manager/dist/lib/webworker.js1670946629604053068 0
 73/home/adeel/ts-chrome-extension/node_modules/@hapi/validate/lib/common.js1670946627540047245 0
+45/home/adeel/ts-chrome-extension/tsconfig.json1670947302657952085 0
 127/home/adeel/ts-chrome-extension/node_modules/@opentelemetry/sdk-metrics-base/node_modules/@opentelemetry/core/build/esm/baggage1670946630528055675 1
 73/home/adeel/ts-chrome-extension/node_modules/@hapi/validate/lib/extend.js1670946627788047944 0
 68/home/adeel/ts-chrome-extension/node_modules/es-abstract/2019/Set.js1670946631264057752 0
